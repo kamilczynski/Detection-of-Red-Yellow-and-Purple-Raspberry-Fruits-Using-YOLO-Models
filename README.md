@@ -12,7 +12,7 @@ If you use this repository, please cite:
 Graphical application for batch image resizing using OpenCV and CustomTkinter. Provides an intuitive dark-themed GUI for selecting input/output directories and defining target image dimensions. Supports multiple formats (`.jpg`, `.png`, `.bmp`, `.tiff`) with automatic folder creation, error handling, and safe I/O operations. Designed for standardized dataset preparation and image normalization prior to YOLO-based deep learning model training.
 
 <p align="center">
-  <img src="ScalingR.jpg" alt="ScalingR.jpg" width="800"/>
+  <img src="ScalingR.png" alt="ScalingR.png" width="800"/>
 </p>
 
 ### `02_DataSetsOrganizer.py`
