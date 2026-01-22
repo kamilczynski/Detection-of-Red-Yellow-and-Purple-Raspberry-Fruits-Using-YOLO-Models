@@ -6,7 +6,7 @@
 
 ## Citation
 If you use this repository, please cite:
---It will be available after publication--
+https://doi.org/10.3390/agriculture15242530
 
 ### `01_ImageScaling.py`
 <p align="justify">Graphical application for batch image resizing using OpenCV and CustomTkinter. Provides an intuitive dark-themed GUI for selecting input/output directories and defining target image dimensions. Supports multiple formats (`.jpg`, `.png`, `.bmp`, `.tiff`) with automatic folder creation, error handling, and safe I/O operations. Designed for standardized dataset preparation and image normalization prior to YOLO-based deep learning model training.</p>
